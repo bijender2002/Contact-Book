@@ -262,4 +262,4 @@ const contactReducer = (state = intialState, action) => {
 
 const store = createStore(contactReducer, composeWithDevTools());
 
-export default store;
+// export default store;
